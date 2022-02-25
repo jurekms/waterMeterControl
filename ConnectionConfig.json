@@ -1,0 +1,27 @@
+{
+  "wmTCPIPAddress" : "10.11.22.152",
+  "wmTCPport" : 502,
+  "wmTCPtimeout" : 0,
+  "wmTCPreconnect" : false,
+  "wmTCPuseRtuOverTcp" : false,
+  "wmConfigurationFileNameOUT" : "wmConfigOUT.json",
+  "wmConfigurationFileNameIN" : "wmConfigIN.json",
+  "wmCounterFileNameOUT" : "wmCounter.json",
+  "wmRSparameters" : {
+    "portName" : "COM3",
+    "baudRate" : 19200,
+    "flowControlIn" : 0,
+    "flowControlOut" : 0,
+    "databits" : 8,
+    "stopbits" : 1,
+    "parity" : 0,
+    "encoding" : "rtu",
+    "echo" : false,
+    "openDelay" : 0,
+    "rs485Mode" : false,
+    "rs485TxEnableActiveHigh" : true,
+    "rs485DelayBeforeTxMicroseconds" : 1000,
+    "rs485DelayAfterTxMicroseconds" : 1000
+   },
+  "modbusIDs" : [ 16 ]
+}

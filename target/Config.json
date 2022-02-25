@@ -1,0 +1,19 @@
+{
+  "wmLabel" : "Lokal nr 8      ",
+  "wmSerialNumber" : 70408413,
+  "wmSoftVersion" : 1012,
+  "wmCorectionCounter" : 540563,
+  "wmInitialCounter" : 200,
+  "wmStoreCounter" : 11802,
+  "wmCurrentCounter" : 11802,
+  "wmPulseCounter" : 23604,
+  "wmCheckYear" : 2025,
+  "wmFirstTimeRunFlag" : 170,
+  "wmModbusSlaveAddress" : 16,
+  "wmContinuousWaterFlowAlarmAllow" : 1,
+  "wmContinuousWaterFlowAlarmTimes" : 10,
+  "wmContinuousWaterFlowAlarmPeriod" : 6000,
+  "wmNoWaterFlowAlarmAllow" : 1,
+  "wmNoWaterFlowAlarmTime" : 8705536,
+  "wmOUTTransistorAlarmAllow" : 2
+}

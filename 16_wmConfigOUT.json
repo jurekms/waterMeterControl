@@ -1,0 +1,19 @@
+{
+  "wmLabel" : "1234567890123456",
+  "wmSerialNumber" : 70211805,
+  "wmSoftVersion" : 1012,
+  "wmCorectionCounter" : 540563,
+  "wmInitialCounter" : 200,
+  "wmStoreCounter" : 11772,
+  "wmCurrentCounter" : 333,
+  "wmPulseCounter" : 666,
+  "wmCheckYear" : 2025,
+  "wmFirstTimeRunFlag" : 170,
+  "wmModbusSlaveAddress" : 16,
+  "wmContinuousWaterFlowAlarmAllow" : 1,
+  "wmContinuousWaterFlowAlarmTimes" : 10,
+  "wmContinuousWaterFlowAlarmPeriod" : 6000,
+  "wmNoWaterFlowAlarmAllow" : 1,
+  "wmNoWaterFlowAlarmTime" : 8640000,
+  "wmOUTTransistorAlarmAllow" : 2
+}
